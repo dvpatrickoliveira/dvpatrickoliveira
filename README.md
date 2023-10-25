@@ -1,19 +1,21 @@
-```js
-import Desenvolvedor from "SeuNick";
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-class SobreMim extends Desenvolvedor {
-  nome = "Seu nome";
-  area = "Sua área";
-  trabalho = "Onde trabalha";
-  local = "Local";
-}
+<p align="left"> 
+  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
+  Diga o que você está fazendo no momento, se trabalha ou estuda.
+</p>
 
-class Skills extends Desenvolvedor {
-  linguagens = ["Suas linguagens"];
-  bibliotecas = ["Suas bibliotecas"];
-  frameworks = ["Seus frameworks"];
-}
-```
+<p align="left">
+  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+</p>
+
+<p align="left">
+  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+</p>
+
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
 
 <p align="left">
   <a href="#" alt="Gmail">
@@ -31,18 +33,6 @@ class Skills extends Desenvolvedor {
   <a href="#" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>
-
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div>
-
-<br/>
-<hr/>
-
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
