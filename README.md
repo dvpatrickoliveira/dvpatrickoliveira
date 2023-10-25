@@ -5,18 +5,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Do not indulge in dreams of having what you do not have, but calculate the chief blessings you possess, and then happily remember how you would long for them if they were not yours.
 </p>
-
-<p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
-</p>
-
-<p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
-</p>
-
 <p align="left">
   💌 Entre em contato: ⤵️
 </p>
