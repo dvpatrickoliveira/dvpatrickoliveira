@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right">
 
 <p align="left"> 
-  Do not indulge in dreams of having what you do not have, but calculate the chief blessings you possess, and then happily remember how you would long for them if they were not yours.
+  "Do not indulge in dreams of having what you do not have, but calculate the chief blessings you possess, and then happily remember how you would long for them if they were not yours."
 </p>
 <p align="left">
   💌 Contact: ⤵️
