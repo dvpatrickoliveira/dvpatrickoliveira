@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Entre em contato: ⤵️
 </p>
 
 <div> 
@@ -43,7 +43,7 @@
     
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  ![snake animation](https://github.com/dvpatrickoliveira/blob/output/github-contribution-grid-snake2.svg)
   
   <br/><br/><br/>
 </div>
